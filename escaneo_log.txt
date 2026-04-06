@@ -6,3 +6,4 @@ Host: 192.168.100.0/24 - Estado: up
 --- Escaneo 2026-04-05 18:38:25.608944 ---
 Host: 192.168.100.0/24 - Estado: up
 ------------------------------
+Prueba Hydra 05/04/2026: La CloudCam .168 bloqueó intentos de conexión. Blindaje activo detectado.
